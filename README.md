@@ -17,8 +17,3 @@
 #### conda install -c h2oai h2o
 
 
-
-
-### UPDATED WITH A GBM MODEL 
-
-PLEASE CHECK THE FILE 
